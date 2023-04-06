@@ -1,11 +1,11 @@
 server:
   port: 8082
 
-#jsp ?? ??
+#jsp
 spring:
   mvc:
     view:
-      prefix: /WEB-INF/views/
+      prefix: /WEB-INF/view/
       suffix: .jsp
 
   datasource:
