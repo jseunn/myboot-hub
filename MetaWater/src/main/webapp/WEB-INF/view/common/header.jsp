@@ -29,7 +29,7 @@
         <!-- Navbar-->
         <nav class="navbar navbar-expand-lg fixed-top shadow navbar-light bg-white">
             <div class="container-fluid">
-                <div class="d-flex align-items-center"><a class="navbar-brand py-1" href="/html/index.html"><img src="css/img/logo.svg" alt="Directory logo"></a>
+                <div class="d-flex align-items-center"><a class="navbar-brand py-1" href="/"><img src="img/logo.svg" alt="Directory logo"></a>
                     <form class="form-inline d-none d-sm-flex" action="#" id="search">
                         <div class="input-label-absolute input-label-absolute-left input-expand ms-lg-2 ms-xl-3">
                             <label class="label-absolute" for="search_search"><i class="fa fa-search"></i><span class="sr-only">What are you looking for?</span></label>
@@ -51,7 +51,7 @@
                             Home</a>
                             <div class="dropdown-menu" aria-labelledby="homeDropdownMenuLink"><a class="dropdown-item" href="/../public/html/index.html">Rooms</a><a class="dropdown-item" href="/../public/index-2.html">Restaurants</a><a class="dropdown-item" href="index-3.html">Travel</a><a class="dropdown-item" href="index-4.html">Real Estate <span class="badge badge-info-light ms-1 mt-n1">New</span></a></div>
                         </li>
-                        <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a>
+                        <li class="nav-item"><a class="nav-link" href="/detail">Detail</a>
                         </li>
                         <li class="nav-item dropdown"><a class="nav-link dropdown-toggle " id="docsDropdownMenuLink" href="index.html" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Docs</a>
