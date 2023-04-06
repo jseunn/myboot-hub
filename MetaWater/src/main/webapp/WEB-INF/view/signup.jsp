@@ -9,8 +9,9 @@
         <div class="row min-vh-100">
             <div class="col-md-8 col-lg-6 col-xl-5 d-flex align-items-center">
                 <div class="w-100 py-5 px-md-5 px-xxl-6 position-relative">
-                    <div class="mb-5"><img class="img-fluid mb-3" src="img/logo-square.svg" alt="..." style="max-width: 4rem;">
-                        <h2>Welcome back</h2>
+                    <div class="mb-4"><img class="img-fluid mb-4" src="img/logo-square.svg" alt="..." style="max-width: 4rem;">
+                        <h2>Sign up</h2>
+                        <p class="text-muted">His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table.</p>
                     </div>
                     <form class="form-validate">
                         <div class="mb-4">
@@ -18,23 +19,15 @@
                             <input class="form-control" name="loginUsername" id="loginUsername" type="email" placeholder="name@address.com" autocomplete="off" required data-msg="Please enter your email">
                         </div>
                         <div class="mb-4">
-                            <div class="row">
-                                <div class="col">
-                                    <label class="form-label" for="loginPassword"> Password</label>
-                                </div>
-                                <div class="col-auto"><a class="form-text small text-primary" href="#">Forgot password?</a></div>
-                            </div>
+                            <label class="form-label" for="loginPassword"> Password</label>
                             <input class="form-control" name="loginPassword" id="loginPassword" placeholder="Password" type="password" required data-msg="Please enter your password">
                         </div>
                         <div class="mb-4">
-                            <div class="form-check">
-                                <input class="form-check-input" id="loginRemember" type="checkbox">
-                                <label class="form-check-label text-muted" for="loginRemember"> <span class="text-sm">Remember me for 30 days</span></label>
-                            </div>
+                            <label class="form-label" for="loginPassword2"> Confirm your password</label>
+                            <input class="form-control" name="loginPassword2" id="loginPassword2" placeholder="Password" type="password" required data-msg="Please enter your password">
                         </div>
-                        <!-- Submit-->
-                        <div class="d-grid">
-                            <button class="btn btn-lg btn-primary">Sign in</button>
+                        <div class="d-grid gap-2">
+                            <button class="btn btn-lg btn-primary" type="submit">Sign up</button>
                         </div>
                         <hr class="my-3 hr-text letter-spacing-2" data-content="OR">
                         <div class="d-grid gap-2">
@@ -42,7 +35,7 @@
                             <button class="btn btn btn-outline-muted btn-social"><i class="fa-2x fa-google fab btn-social-icon"> </i>Connect <span class="d-none d-sm-inline">with Google</span></button>
                         </div>
                         <hr class="my-4">
-                        <p class="text-center"><small class="text-muted text-center">Don't have an account yet? <a href="signup.html">Sign Up                </a></small></p>
+                        <p class="text-sm text-muted">By signing up you agree to Directory's <a href="#">Terms and Conditions</a> and <a href="#">Privacy Policy</a>.</p>
                     </form><a class="close-absolute me-md-5 me-xl-6 pt-5" href="index.html">
                     <svg class="svg-icon w-3rem h-3rem">
                         <use xlink:href="#close-1"> </use>
