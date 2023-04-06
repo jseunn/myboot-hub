@@ -1,12 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-</head>
+
 <body>
     <!-- Footer-->
     <footer class="position-relative z-index-10 d-print-none">
@@ -65,15 +59,17 @@
                     </div>
                     <div class="col-md-6">
                         <ul class="list-inline mb-0 mt-2 mt-md-0 text-center text-md-end">
-                            <li class="list-inline-item"><img class="w-2rem" src="/../html/img/visa.svg" alt="..."></li>
-                            <li class="list-inline-item"><img class="w-2rem" src="/../html/img/mastercard.svg" alt="..."></li>
-                            <li class="list-inline-item"><img class="w-2rem" src="/../html/img/paypal.svg" alt="..."></li>
-                            <li class="list-inline-item"><img class="w-2rem" src="/../html/img/western-union.svg" alt="..."></li>
+                            <li class="list-inline-item"><img class="w-2rem" src="img/visa.svg" alt="..."></li>
+                            <li class="list-inline-item"><img class="w-2rem" src="img/mastercard.svg" alt="..."></li>
+                            <li class="list-inline-item"><img class="w-2rem" src="img/paypal.svg" alt="..."></li>
+                            <li class="list-inline-item"><img class="w-2rem" src="img/western-union.svg" alt="..."></li>
                         </ul>
                     </div>
                 </div>
             </div>
         </div>
     </footer>
+
+
 </body>
 </html>

@@ -1,14 +1,11 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
-<head>
-    <meta charset="UTF-8">
-    <title>Hello World!</title>
-</head>
+
 <jsp:include page="/WEB-INF/view/common/header.jsp">
     <jsp:param value="홈페이지" name="title"/>
 </jsp:include>
 
     <body style="padding-top: 72px;">
-    <section class="d-flex align-items-center dark-overlay bg-cover" style="background-image: url(/../html/img/photo/photo-1525610553991-2bede1a236e2.jpg);">
+    <section class="d-flex align-items-center dark-overlay bg-cover" style="background-image: url(img/photo/photo-1525610553991-2bede1a236e2.jpg);">
         <div class="container py-6 py-lg-7 text-white overlay-content text-center">
             <div class="row">
                 <div class="col-xl-10 mx-auto">
@@ -61,14 +58,14 @@
             </div>
             <div class="row">
                 <div class="d-flex align-items-lg-stretch mb-4 col-lg-8">
-                    <div class="card shadow-lg border-0 w-100 border-0 hover-animate" style="background: center center url(/../html/img/photo/photo-1449034446853-66c86144b0ad.jpg) no-repeat; background-size: cover;"><a class="tile-link" href="category.html"> </a>
+                    <div class="card shadow-lg border-0 w-100 border-0 hover-animate" style="background: center center url(img/photo/photo-1449034446853-66c86144b0ad.jpg) no-repeat; background-size: cover;"><a class="tile-link" href="category.html"> </a>
                         <div class="d-flex align-items-center h-100 text-white justify-content-center py-6 py-lg-7">
                             <h3 class="text-shadow text-uppercase mb-0">San Francisco</h3>
                         </div>
                     </div>
                 </div>
                 <div class="d-flex align-items-lg-stretch mb-4 col-lg-4">
-                    <div class="card shadow-lg border-0 w-100 border-0 hover-animate" style="background: center center url(/../html/img/photo/photo-1429554429301-1c7d5ae2d42e.jpg) no-repeat; background-size: cover;"><a class="tile-link" href="category.html"> </a>
+                    <div class="card shadow-lg border-0 w-100 border-0 hover-animate" style="background: center center url(img/photo/photo-1429554429301-1c7d5ae2d42e.jpg) no-repeat; background-size: cover;"><a class="tile-link" href="category.html"> </a>
                         <div class="d-flex align-items-center h-100 text-white justify-content-center py-6 py-lg-7">
                             <h3 class="text-shadow text-uppercase mb-0">Los Angeles</h3>
                         </div>
@@ -77,21 +74,21 @@
             </div>
             <div class="row">
                 <div class="d-flex align-items-lg-stretch mb-4 col-lg-4">
-                    <div class="card shadow-lg border-0 w-100 border-0 hover-animate" style="background: center center url(/../html/img/photo/photo-1523430410476-0185cb1f6ff9.jpg) no-repeat; background-size: cover;"><a class="tile-link" href="category.html"> </a>
+                    <div class="card shadow-lg border-0 w-100 border-0 hover-animate" style="background: center center url(img/photo/photo-1523430410476-0185cb1f6ff9.jpg) no-repeat; background-size: cover;"><a class="tile-link" href="category.html"> </a>
                         <div class="d-flex align-items-center h-100 text-white justify-content-center py-6 py-lg-7">
                             <h3 class="text-shadow text-uppercase mb-0">Santa Monica</h3>
                         </div>
                     </div>
                 </div>
                 <div class="d-flex align-items-lg-stretch mb-4 col-lg-4">
-                    <div class="card shadow-lg border-0 w-100 border-0 hover-animate" style="background: center center url(/../html/img/photo/photo-1505245208761-ba872912fac0.jpg) no-repeat; background-size: cover;"><a class="tile-link" href="category.html"> </a>
+                    <div class="card shadow-lg border-0 w-100 border-0 hover-animate" style="background: center center url(img/photo/photo-1505245208761-ba872912fac0.jpg) no-repeat; background-size: cover;"><a class="tile-link" href="category.html"> </a>
                         <div class="d-flex align-items-center h-100 text-white justify-content-center py-6 py-lg-7">
                             <h3 class="text-shadow text-uppercase mb-0">San Diego</h3>
                         </div>
                     </div>
                 </div>
                 <div class="d-flex align-items-lg-stretch mb-4 col-lg-4">
-                    <div class="card shadow-lg border-0 w-100 border-0 hover-animate" style="background: center center url(/../html/img/photo/photo-1519867850-74775a87e783.jpg) no-repeat; background-size: cover;"><a class="tile-link" href="category.html"> </a>
+                    <div class="card shadow-lg border-0 w-100 border-0 hover-animate" style="background: center center url(img/photo/photo-1519867850-74775a87e783.jpg) no-repeat; background-size: cover;"><a class="tile-link" href="category.html"> </a>
                         <div class="d-flex align-items-center h-100 text-white justify-content-center py-6 py-lg-7">
                             <h3 class="text-shadow text-uppercase mb-0">Fresno</h3>
                         </div>
@@ -171,7 +168,7 @@
                         <!-- venue item-->
                         <div class="w-100 h-100 hover-animate" data-marker-id="59c0c8e33b1527bfe2abaf92">
                             <div class="card h-100 border-0 shadow">
-                                <div class="card-img-top overflow-hidden dark-overlay bg-cover" style="background-image: url(/../html/img/photo/restaurant-1430931071372-38127bd472b8.jpg); min-height: 200px;"><a class="tile-link" href="detail.html"></a>
+                                <div class="card-img-top overflow-hidden dark-overlay bg-cover" style="background-image: url(img/photo/restaurant-1430931071372-38127bd472b8.jpg); min-height: 200px;"><a class="tile-link" href="detail.html"></a>
                                     <div class="card-img-overlay-bottom z-index-20">
                                         <h4 class="text-white text-shadow">Blue Hill</h4>
                                         <p class="mb-2 text-xs"><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-gray-300">                    </i>
@@ -197,7 +194,7 @@
                         <!-- venue item-->
                         <div class="w-100 h-100 hover-animate" data-marker-id="59c0c8e322f3375db4d89128">
                             <div class="card h-100 border-0 shadow">
-                                <div class="card-img-top overflow-hidden dark-overlay bg-cover" style="background-image: url(/../html/img/photo/restaurant-1436018626274-89acd1d6ec9d.jpg); min-height: 200px;"><a class="tile-link" href="detail.html"></a>
+                                <div class="card-img-top overflow-hidden dark-overlay bg-cover" style="background-image: url(img/photo/restaurant-1436018626274-89acd1d6ec9d.jpg); min-height: 200px;"><a class="tile-link" href="detail.html"></a>
                                     <div class="card-img-overlay-bottom z-index-20">
                                         <h4 class="text-white text-shadow">Plutorque</h4>
                                         <p class="mb-2 text-xs"><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i><i class="fa fa-star text-warning"></i>
@@ -370,7 +367,32 @@
         <jsp:param value="홈페이지" name="title"/>
     </jsp:include>
 
-    <!-- js 삽입 -->
+    <!-- JavaScript files-->
+    <script>
+        // ------------------------------------------------------- //
+        //   Inject SVG Sprite -
+        //   see more here
+        //   https://css-tricks.com/ajaxing-svg-sprite/
+        // ------------------------------------------------------ //
+        function injectSvgSprite(path) {
+
+            var ajax = new XMLHttpRequest();
+            ajax.open("GET", path, true);
+            ajax.send();
+            ajax.onload = function(e) {
+                var div = document.createElement("div");
+                div.className = 'd-none';
+                div.innerHTML = ajax.responseText;
+                document.body.insertBefore(div, document.body.childNodes[0]);
+            }
+        }
+        // to avoid CORS issues when viewing using file:// protocol, using the demo URL for the SVG sprite
+        // use your own URL in production, please :)
+        // https://demo.bootstrapious.com/directory/1-0/icons/orion-svg-sprite.svg
+        //- injectSvgSprite('${path}icons/orion-svg-sprite.svg');
+        injectSvgSprite('https://demo.bootstrapious.com/directory/1-4/icons/orion-svg-sprite.svg');
+
+    </script>
     <!-- jQuery-->
     <script src="vendor/jquery/jquery.min.js"></script>
     <!-- Bootstrap JS bundle - Bootstrap + PopperJS-->
@@ -388,24 +410,6 @@
     <script>var basePath = ''</script>
     <!-- Main Theme JS file    -->
     <script src="js/theme.js"></script>
-    <!-- Map-->
-    <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js" integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og==" crossorigin=""></script>
-    <!-- Available tile layers-->
-    <script src="js/map-layers.js"> </script>
-    <script src="js/map-detail.js"></script>
-    <script>
-        createDetailMap({
-            mapId: 'detailMap',
-            mapZoom: 14,
-            mapCenter: [40.732346, -74.0014247],
-            circleShow: true,
-            circlePosition: [40.732346, -74.0014247]
-        })
-
-    </script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js"> </script>
 
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-date-range-picker/0.19.0/jquery.daterangepicker.min.js"> </script>
-    <script src="js/datepicker-detail.js">   </script>
     </body>
