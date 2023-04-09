@@ -11,7 +11,11 @@
         <div class="col-lg-7">
             <div class="text-block">
                 <div class="row gallery mb-3 ms-n1 me-n1">
-                    <div class="col-lg-12 col-6 px-1 mb-2"><a href="img/photo/sample1.PNG" data-fancybox="gallery" title="Our street"><img class="img-fluid" src="img/photo/sample1.PNG" alt="..."></a></div>
+                    <div class="col-lg-12 col-6 px-1 mb-2 d-flex justify-content-center align-items-center">
+                        <a href="img/photo/sample1.PNG" data-fancybox="gallery" title="Our street">
+                            <img class="img-fluid" src="img/photo/sample1.PNG" alt="...">
+                        </a>
+                    </div>
                     <div class="col-lg-4 col-6 px-1 mb-2"><a href="img/photo/photo-1512917774080-9991f1c4c750.jpg" data-fancybox="gallery" title="Outside"><img class="img-fluid" src="img/photo/photo-1512917774080-9991f1c4c750.jpg" alt="..."></a></div>
                     <div class="col-lg-4 col-6 px-1 mb-2"><a href="img/photo/photo-1494526585095-c41746248156.jpg" data-fancybox="gallery" title="Rear entrance"><img class="img-fluid" src="img/photo/photo-1494526585095-c41746248156.jpg" alt="..."></a></div>
                     <div class="col-lg-4 col-6 px-1 mb-2"><a href="img/photo/photo-1494526585095-c41746248156.jpg" data-fancybox="gallery" title="Rear entrance"><img class="img-fluid" src="img/photo/photo-1494526585095-c41746248156.jpg" alt="..."></a></div>
