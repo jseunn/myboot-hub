@@ -66,9 +66,9 @@
 <div class="d-flex justify-content-lg-center align-items-center" style="background-color: black" id="detailBar">
     <ul class="d-flex my-3" style="color:white;">
         <li style="margin: 0 35px; text-align: center;"><a href="#detailInfo">상세설명</a></li>
-        <li style="margin: 0 35px; text-align: center;"><a>구매정보</a></li>
-        <li style="margin: 0 35px; text-align: center;"><a>후기</a></li>
-        <li style="margin: 0 35px; text-align: center;"><a>문의</a></li>
+        <li style="margin: 0 35px; text-align: center;"><a href="#buyingInfo">구매정보</a></li>
+        <li style="margin: 0 35px; text-align: center;"><a href="#reviewContents">후기</a></li>
+        <li style="margin: 0 35px; text-align: center;"><a href="#inquireContents">문의</a></li>
     </ul>
 </div>
 <div class="pb-6 bg-gray-100">
@@ -99,8 +99,8 @@
             <h6 class="mb-3">Interaction with guests</h6>
             <p class="text-muted fw-light">We live in the two floors above the garden apartment so we are usually available to answer questions. The garden apartment is separate from our living space. We are happy to provide advice on local attractions, restaurants and transportation around the city. If there's anything you need please don't hesitate to ask!</p>
         </div>
-        <div class="text-block">
-            <h4 class="mb-4">Amenities</h4>
+        <div class="text-block py-6" id="buyingInfo">
+            <h4 class="mb-4">구매정보</h4>
             <div class="row">
                 <div class="col-md-6">
                     <ul class="list-unstyled text-muted">
@@ -134,7 +134,7 @@
                 <li class="list-inline-item mb-2"><span class="badge rounded-pill bg-light p-3 text-muted fw-normal">Washing machine</span></li>
             </ul>
         </div>
-        <div class="text-block">
+        <div class="text-block py-6" id="reviewContents">
             <p class="subtitle text-sm text-primary">Reviews    </p>
             <h5 class="mb-4">Listing Reviews </h5>
             <div>
@@ -215,8 +215,8 @@
     </div>
 
 </div>
-<div class="py-6 bg-gray-100">
-    <div class="container">
+<div class="bg-gray-100">
+    <div class="container py-6" id="inquireContents">
         <h5 class="mb-0">Similar places</h5>
         <p class="subtitle text-sm text-primary mb-4">You may also like         </p>
         <!-- Slider main container-->

@@ -8,7 +8,7 @@ window.addEventListener("DOMContentLoaded",()=>{
 
     const setNavigationPosition = () =>{
         const detailBar = document.getElementById("detailBar")
-        if(window.scrollY>100){
+        if(window.scrollY>900){
             detailBar.classList.add("fixed-top")
         }else{
             detailBar.classList.remove("fixed-top")
@@ -17,12 +17,9 @@ window.addEventListener("DOMContentLoaded",()=>{
 
     setInterval(()=>{
         setNavigationPosition();
-        console.log("y value",window.scrollY);
     },500);
 
 
-    console.log("왜안돼");
-    
 
     const swiper = new Swiper('.swiper', {
         // slidesPerGroup: 4,
