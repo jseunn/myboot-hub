@@ -65,10 +65,10 @@
 </div>
 <div class="d-flex justify-content-lg-center align-items-center" style="background-color: black" id="detailBar">
     <ul class="d-flex my-3" style="color:white;">
-        <li style="margin: 0 35px; text-align: center;"><a href="#detailInfo">상세설명</a></li>
-        <li style="margin: 0 35px; text-align: center;"><a href="#buyingInfo">구매정보</a></li>
-        <li style="margin: 0 35px; text-align: center;"><a href="#reviewContents">후기</a></li>
-        <li style="margin: 0 35px; text-align: center;"><a href="#inquireContents">문의</a></li>
+        <li ><a class="detail-bar-item"  href="#detailInfo"><span data-index="0"  onclick="changeTextColor(this)">상세설명</span></a></li>
+        <li ><a class="detail-bar-item" href="#buyingInfo"><span data-index="1"  onclick="changeTextColor(this)">구매정보</span></a></li>
+        <li ><a class="detail-bar-item" href="#reviewContents"><span data-index="2" onclick="changeTextColor(this)">후기</span></a></li>
+        <li ><a class="detail-bar-item" href="#inquireContents"><span data-index="3" onclick="changeTextColor(this)">문의</span></a></li>
     </ul>
 </div>
 <div class="pb-6 bg-gray-100">
@@ -514,7 +514,7 @@
 <script>var basePath = ''</script>
 <!-- Main Theme JS file    -->
 <script src="js/theme.js"></script>
-<script src="js/custom.js"></script>
+<script defer src="js/custom.js"></script>
 <!-- Map-->
 <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js" integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og==" crossorigin=""></script>
 <!-- Available tile layers-->

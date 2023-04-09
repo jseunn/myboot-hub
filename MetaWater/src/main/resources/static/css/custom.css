@@ -4,3 +4,20 @@
 #bestReviewItemContainer{
     height: 100px !important;
 }
+
+.detail-bar-item{
+    margin: 0 50px; text-align: center;
+}
+
+.detail-bar-item{
+    color:white;
+}
+
+/*.detail-bar-item a{*/
+/*    color:#4E66F8;*/
+/*    font-weight:bold;*/
+/*}*/
+.clicked{
+    color:#4E66F8;
+    font-weight:bold;
+}

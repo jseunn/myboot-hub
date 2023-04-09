@@ -1,14 +1,11 @@
 
 
+// 브라우저에 화면이 나왔을 때
 window.addEventListener("DOMContentLoaded",()=>{
-
-
-
-
 
     const setNavigationPosition = () =>{
         const detailBar = document.getElementById("detailBar")
-        if(window.scrollY>900){
+        if(window.scrollY>890){
             detailBar.classList.add("fixed-top")
         }else{
             detailBar.classList.remove("fixed-top")
@@ -55,10 +52,33 @@ window.addEventListener("DOMContentLoaded",()=>{
         //     type: 'bullets',
         // },
     });
+
+    // const changeTextColor = (clickedItem) =>{
+    //     document.querySelectorAll("detail-bar-item").forEach((element,index)=>{
+    //         console.log("1")
+    //         if(Number(clickedItem.dataset.index)===Number(index)){
+    //             element.classList.add("clicked");
+    //             console.log("2")
+    //         }else{
+    //             element.classList.remove("clicked");
+    //             console.log("3")
+    //         }
+    //     })
+    // }
 })
 
-window.addEventListener('DOMContentLoaded', (event) => {
-    console.log('DOM fully loaded and parsed');
-});
+// 네비게이션 클릭했을 때 클릭된 항목 색상 변경
+const changeTextColor = (clickedItem) =>{
+    // detail-bar-item 이라는 클래스를 가진 span을 선택 >
+    document.querySelectorAll(".detail-bar-item").forEach((element,index)=>{
+        if(Number(clickedItem.dataset.index)===Number(index)){
+            element.classList.add("clicked");
+        }else{
+            element.classList.remove("clicked");
+        }
+    })
+}
+
+
 
 
