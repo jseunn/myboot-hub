@@ -24,147 +24,6 @@
                     <div class="col-lg-4 col-6 px-1 mb-2"><a href="img/photo/photo-1488805990569-3c9e1d76d51c.jpg" data-fancybox="gallery" title="Bedroom"><img class="img-fluid" src="img/photo/photo-1488805990569-3c9e1d76d51c.jpg" alt="..."></a></div> -->
                 </div>
             </div>
-            <div class="text-block">
-                <p class="text-primary"><i class="fa-map-marker-alt fa me-1"></i> Brooklyn, New York</p>
-                <h1>정수기 이름</h1>
-                <p class="text-muted text-uppercase mb-4">Entire Apartment </p>
-                <ul class="list-inline text-sm mb-4">
-                    <li class="list-inline-item me-3"><i class="fa fa-users me-1 text-secondary"></i> 4 guests</li>
-                    <li class="list-inline-item me-3"><i class="fa fa-door-open me-1 text-secondary"></i> 1 bedroom</li>
-                    <li class="list-inline-item me-3"><i class="fa fa-bed me-1 text-secondary"></i> 3 beds</li>
-                    <li class="list-inline-item me-3"><i class="fa fa-bath me-1 text-secondary"></i> 1 bath</li>
-                </ul>
-                <p class="text-muted fw-light">Our garden basement apartment is fully equipped with everything you need to enjoy your stay. Very comfortable for a couple but plenty of space for a small family. Close to many wonderful Brooklyn attractions and quick trip to Manhattan. </p>
-                <h6 class="mb-3">The space</h6>
-                <p class="text-muted fw-light">Welcome to Brooklyn! We are excited to share our wonderful neighborhood with you. Our modern apartment has a private entrance, fully equipped kitchen, and a very comfortable queen size bed. We are happy to accommodate additional guests with a single bed in the living room, another comfy mattress on the floor and can make arrangements for small children with a portable crib and highchair if requested. </p>
-                <p class="text-muted fw-light">Also in the apartment:</p>
-                <ul class="text-muted fw-light">
-                    <li>TV with Netflix and DirectTVNow</li>
-                    <li>Free WiFi</li>
-                    <li>Gourmet Coffee/Tea making supplies</li>
-                    <li>Fresh Sheets and Towels</li>
-                    <li>Toaster, microwave, pots and pans and basic cooking needs like salt, pepper, sugar, and olive oil.</li>
-                    <li>Air Conditioning to keep you cool all summer!</li>
-                </ul>
-                <p class="text-muted fw-light">The apartment is surprisingly quiet for being in the heart of a vibrant, bustling neighborhood.</p>
-                <h6 class="mb-3">Interaction with guests</h6>
-                <p class="text-muted fw-light">We live in the two floors above the garden apartment so we are usually available to answer questions. The garden apartment is separate from our living space. We are happy to provide advice on local attractions, restaurants and transportation around the city. If there's anything you need please don't hesitate to ask!</p>
-            </div>
-            <div class="text-block">
-                <h4 class="mb-4">Amenities</h4>
-                <div class="row">
-                    <div class="col-md-6">
-                        <ul class="list-unstyled text-muted">
-                            <li class="mb-2"> <i class="fa fa-wifi text-secondary w-1rem me-3 text-center"></i><span class="text-sm">Wifi</span></li>
-                            <li class="mb-2"> <i class="fa fa-tv text-secondary w-1rem me-3 text-center"></i><span class="text-sm">Cable TV</span></li>
-                            <li class="mb-2"> <i class="fa fa-snowflake text-secondary w-1rem me-3 text-center"></i><span class="text-sm">Air conditioning</span></li>
-                            <li class="mb-2"> <i class="fa fa-thermometer-three-quarters text-secondary w-1rem me-3 text-center"></i><span class="text-sm">Heating</span></li>
-                        </ul>
-                    </div>
-                    <div class="col-md-6">
-                        <ul class="list-unstyled text-muted">
-                            <li class="mb-2"> <i class="fa fa-bath text-secondary w-1rem me-3 text-center"></i><span class="text-sm">Toiletteries</span></li>
-                            <li class="mb-2"> <i class="fa fa-utensils text-secondary w-1rem me-3 text-center"></i><span class="text-sm">Equipped Kitchen</span></li>
-                            <li class="mb-2"> <i class="fa fa-laptop text-secondary w-1rem me-3 text-center"></i><span class="text-sm">Desk for work</span></li>
-                            <li class="mb-2"> <i class="fa fa-tshirt text-secondary w-1rem me-3 text-center"></i><span class="text-sm">Washing machine</span></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="text-block">
-                <h4 class="mb-0">Amenities alternative</h4>
-                <p class="subtitle text-sm text-primary mb-4">Alternative amenities display</p>
-                <ul class="list-inline">
-                    <li class="list-inline-item mb-2"><span class="badge rounded-pill bg-light p-3 text-muted fw-normal">Wifi</span></li>
-                    <li class="list-inline-item mb-2"><span class="badge rounded-pill bg-light p-3 text-muted fw-normal">Cable TV</span></li>
-                    <li class="list-inline-item mb-2"><span class="badge rounded-pill bg-light p-3 text-muted fw-normal">Air conditioning</span></li>
-                    <li class="list-inline-item mb-2"><span class="badge rounded-pill bg-light p-3 text-muted fw-normal">Heating</span></li>
-                    <li class="list-inline-item mb-2"><span class="badge rounded-pill bg-light p-3 text-muted fw-normal">Toiletteries</span></li>
-                    <li class="list-inline-item mb-2"><span class="badge rounded-pill bg-light p-3 text-muted fw-normal">Equipped Kitchen</span></li>
-                    <li class="list-inline-item mb-2"><span class="badge rounded-pill bg-light p-3 text-muted fw-normal">Desk for work</span></li>
-                    <li class="list-inline-item mb-2"><span class="badge rounded-pill bg-light p-3 text-muted fw-normal">Washing machine</span></li>
-                </ul>
-            </div>
-
-
-            <div class="text-block">
-                <p class="subtitle text-sm text-primary">Reviews    </p>
-                <h5 class="mb-4">Listing Reviews </h5>
-                <div>
-                    <button class="btn btn-outline-primary" type="button" data-bs-toggle="collapse" data-bs-target="#leaveReview" aria-expanded="false" aria-controls="leaveReview">Leave a review</button>
-                    <div class="collapse mt-4" id="leaveReview">
-                        <h5 class="mb-4">Leave a review</h5>
-                        <form class="form" id="contact-form" method="get" action="#">
-                            <div class="row">
-                                <div class="col-sm-6">
-                                    <div class="mb-4">
-                                        <label class="form-label" for="name">Your name *</label>
-                                        <input class="form-control" type="text" name="name" id="name" placeholder="Enter your name" required="required">
-                                    </div>
-                                </div>
-                                <div class="col-sm-6">
-                                    <div class="mb-4">
-                                        <label class="form-label" for="rating">Your rating *</label>
-                                        <select class="form-select focus-shadow-0" name="rating" id="rating">
-                                            <option value="5">&#9733;&#9733;&#9733;&#9733;&#9733; (5/5)</option>
-                                            <option value="4">&#9733;&#9733;&#9733;&#9733;&#9734; (4/5)</option>
-                                            <option value="3">&#9733;&#9733;&#9733;&#9734;&#9734; (3/5)</option>
-                                            <option value="2">&#9733;&#9733;&#9734;&#9734;&#9734; (2/5)</option>
-                                            <option value="1">&#9733;&#9734;&#9734;&#9734;&#9734; (1/5)</option>
-                                        </select>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="mb-4">
-                                <label class="form-label" for="email">Your email *</label>
-                                <input class="form-control" type="email" name="email" id="email" placeholder="Enter your  email" required="required">
-                            </div>
-                            <div class="mb-4">
-                                <label class="form-label" for="review">Review text *</label>
-                                <textarea class="form-control" rows="4" name="review" id="review" placeholder="Enter your review" required="required"></textarea>
-                            </div>
-                            <button class="btn btn-primary" type="submit">Post review</button>
-                        </form>
-                    </div>
-                </div>
-                <div class="d-flex d-block d-sm-flex review">
-                    <div class="text-md-center flex-shrink-0 me-4 me-xl-5"><img class="d-block avatar avatar-xl p-2 mb-2" src="img/avatar/avatar-8.jpg" alt="Padmé Amidala"><span class="text-uppercase text-muted text-sm">Dec 2018</span></div>
-                    <div>
-                        <h6 class="mt-2 mb-1">Padmé Amidala</h6>
-                        <div class="mb-2"><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i>
-                        </div>
-                        <p class="text-muted text-sm">One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections     </p>
-                    </div>
-                </div>
-                <div class="d-flex d-block d-sm-flex review">
-                    <div class="text-md-center flex-shrink-0 me-4 me-xl-5"><img class="d-block avatar avatar-xl p-2 mb-2" src="img/avatar/avatar-2.jpg" alt="Luke Skywalker"><span class="text-uppercase text-muted text-sm">Dec 2018</span></div>
-                    <div>
-                        <h6 class="mt-2 mb-1">Luke Skywalker</h6>
-                        <div class="mb-2"><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-gray-200"></i>
-                        </div>
-                        <p class="text-muted text-sm">The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &quot;What's happened to me?&quot; he thought. It wasn't a dream.     </p>
-                    </div>
-                </div>
-                <div class="d-flex d-block d-sm-flex review">
-                    <div class="text-md-center flex-shrink-0 me-4 me-xl-5"><img class="d-block avatar avatar-xl p-2 mb-2" src="img/avatar/avatar-3.jpg" alt="Princess Leia"><span class="text-uppercase text-muted text-sm">Dec 2018</span></div>
-                    <div>
-                        <h6 class="mt-2 mb-1">Princess Leia</h6>
-                        <div class="mb-2"><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-gray-200"></i><i class="fa fa-xs fa-star text-gray-200"></i>
-                        </div>
-                        <p class="text-muted text-sm">His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table.     </p>
-                    </div>
-                </div>
-                <div class="d-flex d-block d-sm-flex review">
-                    <div class="text-md-center flex-shrink-0 me-4 me-xl-5"><img class="d-block avatar avatar-xl p-2 mb-2" src="img/avatar/avatar-4.jpg" alt="Jabba Hut"><span class="text-uppercase text-muted text-sm">Dec 2018</span></div>
-                    <div>
-                        <h6 class="mt-2 mb-1">Jabba Hut</h6>
-                        <div class="mb-2"><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i>
-                        </div>
-                        <p class="text-muted text-sm">Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.     </p>
-                    </div>
-                </div>
-
-            </div>
         </div>
         <div class="col-lg-5">
             <div class="p-4 shadow ms-lg-4 rounded sticky-top" style="top: 100px;">
@@ -204,6 +63,158 @@
         </div>
     </div>
 </div>
+<div class="d-flex justify-content-lg-center align-items-center" style="background-color: black" id="detailBar">
+    <ul class="d-flex my-3" style="color:white;">
+        <li style="margin: 0 35px; text-align: center;"><a href="#detailInfo">상세설명</a></li>
+        <li style="margin: 0 35px; text-align: center;"><a>구매정보</a></li>
+        <li style="margin: 0 35px; text-align: center;"><a>후기</a></li>
+        <li style="margin: 0 35px; text-align: center;"><a>문의</a></li>
+    </ul>
+</div>
+<div class="pb-6 bg-gray-100">
+    <div class="container pt-6" id="detailInfo">
+        <div class="text-block">
+            <p class="text-primary"><i class="fa-map-marker-alt fa me-1"></i> Brooklyn, New York</p>
+            <h1>정수기 이름</h1>
+            <p class="text-muted text-uppercase mb-4">Entire Apartment </p>
+            <ul class="list-inline text-sm mb-4">
+                <li class="list-inline-item me-3"><i class="fa fa-users me-1 text-secondary"></i> 4 guests</li>
+                <li class="list-inline-item me-3"><i class="fa fa-door-open me-1 text-secondary"></i> 1 bedroom</li>
+                <li class="list-inline-item me-3"><i class="fa fa-bed me-1 text-secondary"></i> 3 beds</li>
+                <li class="list-inline-item me-3"><i class="fa fa-bath me-1 text-secondary"></i> 1 bath</li>
+            </ul>
+            <p class="text-muted fw-light">Our garden basement apartment is fully equipped with everything you need to enjoy your stay. Very comfortable for a couple but plenty of space for a small family. Close to many wonderful Brooklyn attractions and quick trip to Manhattan. </p>
+            <h6 class="mb-3">The space</h6>
+            <p class="text-muted fw-light">Welcome to Brooklyn! We are excited to share our wonderful neighborhood with you. Our modern apartment has a private entrance, fully equipped kitchen, and a very comfortable queen size bed. We are happy to accommodate additional guests with a single bed in the living room, another comfy mattress on the floor and can make arrangements for small children with a portable crib and highchair if requested. </p>
+            <p class="text-muted fw-light">Also in the apartment:</p>
+            <ul class="text-muted fw-light">
+                <li>TV with Netflix and DirectTVNow</li>
+                <li>Free WiFi</li>
+                <li>Gourmet Coffee/Tea making supplies</li>
+                <li>Fresh Sheets and Towels</li>
+                <li>Toaster, microwave, pots and pans and basic cooking needs like salt, pepper, sugar, and olive oil.</li>
+                <li>Air Conditioning to keep you cool all summer!</li>
+            </ul>
+            <p class="text-muted fw-light">The apartment is surprisingly quiet for being in the heart of a vibrant, bustling neighborhood.</p>
+            <h6 class="mb-3">Interaction with guests</h6>
+            <p class="text-muted fw-light">We live in the two floors above the garden apartment so we are usually available to answer questions. The garden apartment is separate from our living space. We are happy to provide advice on local attractions, restaurants and transportation around the city. If there's anything you need please don't hesitate to ask!</p>
+        </div>
+        <div class="text-block">
+            <h4 class="mb-4">Amenities</h4>
+            <div class="row">
+                <div class="col-md-6">
+                    <ul class="list-unstyled text-muted">
+                        <li class="mb-2"> <i class="fa fa-wifi text-secondary w-1rem me-3 text-center"></i><span class="text-sm">Wifi</span></li>
+                        <li class="mb-2"> <i class="fa fa-tv text-secondary w-1rem me-3 text-center"></i><span class="text-sm">Cable TV</span></li>
+                        <li class="mb-2"> <i class="fa fa-snowflake text-secondary w-1rem me-3 text-center"></i><span class="text-sm">Air conditioning</span></li>
+                        <li class="mb-2"> <i class="fa fa-thermometer-three-quarters text-secondary w-1rem me-3 text-center"></i><span class="text-sm">Heating</span></li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <ul class="list-unstyled text-muted">
+                        <li class="mb-2"> <i class="fa fa-bath text-secondary w-1rem me-3 text-center"></i><span class="text-sm">Toiletteries</span></li>
+                        <li class="mb-2"> <i class="fa fa-utensils text-secondary w-1rem me-3 text-center"></i><span class="text-sm">Equipped Kitchen</span></li>
+                        <li class="mb-2"> <i class="fa fa-laptop text-secondary w-1rem me-3 text-center"></i><span class="text-sm">Desk for work</span></li>
+                        <li class="mb-2"> <i class="fa fa-tshirt text-secondary w-1rem me-3 text-center"></i><span class="text-sm">Washing machine</span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="text-block">
+            <h4 class="mb-0">Amenities alternative</h4>
+            <p class="subtitle text-sm text-primary mb-4">Alternative amenities display</p>
+            <ul class="list-inline">
+                <li class="list-inline-item mb-2"><span class="badge rounded-pill bg-light p-3 text-muted fw-normal">Wifi</span></li>
+                <li class="list-inline-item mb-2"><span class="badge rounded-pill bg-light p-3 text-muted fw-normal">Cable TV</span></li>
+                <li class="list-inline-item mb-2"><span class="badge rounded-pill bg-light p-3 text-muted fw-normal">Air conditioning</span></li>
+                <li class="list-inline-item mb-2"><span class="badge rounded-pill bg-light p-3 text-muted fw-normal">Heating</span></li>
+                <li class="list-inline-item mb-2"><span class="badge rounded-pill bg-light p-3 text-muted fw-normal">Toiletteries</span></li>
+                <li class="list-inline-item mb-2"><span class="badge rounded-pill bg-light p-3 text-muted fw-normal">Equipped Kitchen</span></li>
+                <li class="list-inline-item mb-2"><span class="badge rounded-pill bg-light p-3 text-muted fw-normal">Desk for work</span></li>
+                <li class="list-inline-item mb-2"><span class="badge rounded-pill bg-light p-3 text-muted fw-normal">Washing machine</span></li>
+            </ul>
+        </div>
+        <div class="text-block">
+            <p class="subtitle text-sm text-primary">Reviews    </p>
+            <h5 class="mb-4">Listing Reviews </h5>
+            <div>
+                <button class="btn btn-outline-primary" type="button" data-bs-toggle="collapse" data-bs-target="#leaveReview" aria-expanded="false" aria-controls="leaveReview">Leave a review</button>
+                <div class="collapse mt-4" id="leaveReview">
+                    <h5 class="mb-4">Leave a review</h5>
+                    <form class="form" id="contact-form" method="get" action="#">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="mb-4">
+                                    <label class="form-label" for="name">Your name *</label>
+                                    <input class="form-control" type="text" name="name" id="name" placeholder="Enter your name" required="required">
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="mb-4">
+                                    <label class="form-label" for="rating">Your rating *</label>
+                                    <select class="form-select focus-shadow-0" name="rating" id="rating">
+                                        <option value="5">&#9733;&#9733;&#9733;&#9733;&#9733; (5/5)</option>
+                                        <option value="4">&#9733;&#9733;&#9733;&#9733;&#9734; (4/5)</option>
+                                        <option value="3">&#9733;&#9733;&#9733;&#9734;&#9734; (3/5)</option>
+                                        <option value="2">&#9733;&#9733;&#9734;&#9734;&#9734; (2/5)</option>
+                                        <option value="1">&#9733;&#9734;&#9734;&#9734;&#9734; (1/5)</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mb-4">
+                            <label class="form-label" for="email">Your email *</label>
+                            <input class="form-control" type="email" name="email" id="email" placeholder="Enter your  email" required="required">
+                        </div>
+                        <div class="mb-4">
+                            <label class="form-label" for="review">Review text *</label>
+                            <textarea class="form-control" rows="4" name="review" id="review" placeholder="Enter your review" required="required"></textarea>
+                        </div>
+                        <button class="btn btn-primary" type="submit">Post review</button>
+                    </form>
+                </div>
+            </div>
+            <div class="d-flex d-block d-sm-flex review">
+                <div class="text-md-center flex-shrink-0 me-4 me-xl-5"><img class="d-block avatar avatar-xl p-2 mb-2" src="img/avatar/avatar-8.jpg" alt="Padmé Amidala"><span class="text-uppercase text-muted text-sm">Dec 2018</span></div>
+                <div>
+                    <h6 class="mt-2 mb-1">Padmé Amidala</h6>
+                    <div class="mb-2"><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i>
+                    </div>
+                    <p class="text-muted text-sm">One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections     </p>
+                </div>
+            </div>
+            <div class="d-flex d-block d-sm-flex review">
+                <div class="text-md-center flex-shrink-0 me-4 me-xl-5"><img class="d-block avatar avatar-xl p-2 mb-2" src="img/avatar/avatar-2.jpg" alt="Luke Skywalker"><span class="text-uppercase text-muted text-sm">Dec 2018</span></div>
+                <div>
+                    <h6 class="mt-2 mb-1">Luke Skywalker</h6>
+                    <div class="mb-2"><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-gray-200"></i>
+                    </div>
+                    <p class="text-muted text-sm">The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked. &quot;What's happened to me?&quot; he thought. It wasn't a dream.     </p>
+                </div>
+            </div>
+            <div class="d-flex d-block d-sm-flex review">
+                <div class="text-md-center flex-shrink-0 me-4 me-xl-5"><img class="d-block avatar avatar-xl p-2 mb-2" src="img/avatar/avatar-3.jpg" alt="Princess Leia"><span class="text-uppercase text-muted text-sm">Dec 2018</span></div>
+                <div>
+                    <h6 class="mt-2 mb-1">Princess Leia</h6>
+                    <div class="mb-2"><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-gray-200"></i><i class="fa fa-xs fa-star text-gray-200"></i>
+                    </div>
+                    <p class="text-muted text-sm">His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table.     </p>
+                </div>
+            </div>
+            <div class="d-flex d-block d-sm-flex review">
+                <div class="text-md-center flex-shrink-0 me-4 me-xl-5"><img class="d-block avatar avatar-xl p-2 mb-2" src="img/avatar/avatar-4.jpg" alt="Jabba Hut"><span class="text-uppercase text-muted text-sm">Dec 2018</span></div>
+                <div>
+                    <h6 class="mt-2 mb-1">Jabba Hut</h6>
+                    <div class="mb-2"><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i><i class="fa fa-xs fa-star text-primary"></i>
+                    </div>
+                    <p class="text-muted text-sm">Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.     </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>
 <div class="py-6 bg-gray-100">
     <div class="container">
         <h5 class="mb-0">Similar places</h5>
@@ -213,7 +224,7 @@
             <!-- Additional required wrapper-->
             <div class="swiper-wrapper pb-5">
                 <!-- Slides-->
-                <div class="swiper-slide h-auto px-2">
+                <div class="swiper-slide h-auto px-2" >
                     <!-- place item-->
                     <div class="w-100 h-100 hover-animate" data-marker-id="59c0c8e33b1527bfe2abaf92">
                         <div class="card h-100 border-0 shadow">
@@ -242,7 +253,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="swiper-slide h-auto px-2">
+                <div class="swiper-slide h-auto px-2" >
                     <!-- place item-->
                     <div class="w-100 h-100 hover-animate" data-marker-id="59c0c8e322f3375db4d89128">
                         <div class="card h-100 border-0 shadow">
@@ -271,7 +282,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="swiper-slide h-auto px-2">
+                <div class="swiper-slide h-auto px-2" >
                     <!-- place item-->
                     <div class="w-100 h-100 hover-animate" data-marker-id="59c0c8e3a31e62979bf147c9">
                         <div class="card h-100 border-0 shadow">
@@ -300,7 +311,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="swiper-slide h-auto px-2">
+                <div class="swiper-slide h-auto px-2" >
                     <!-- place item-->
                     <div class="w-100 h-100 hover-animate" data-marker-id="59c0c8e3503eb77d487e8082">
                         <div class="card h-100 border-0 shadow">
@@ -329,7 +340,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="swiper-slide h-auto px-2">
+                <div class="swiper-slide h-auto px-2" >
                     <!-- place item-->
                     <div class="w-100 h-100 hover-animate" data-marker-id="59c0c8e39aa2eed0626e485d">
                         <div class="card h-100 border-0 shadow">
@@ -358,7 +369,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="swiper-slide h-auto px-2">
+                <div class="swiper-slide h-auto px-2" >
                     <!-- place item-->
                     <div class="w-100 h-100 hover-animate" data-marker-id="59c0c8e39aa2edasd626e485d">
                         <div class="card h-100 border-0 shadow">
@@ -503,6 +514,7 @@
 <script>var basePath = ''</script>
 <!-- Main Theme JS file    -->
 <script src="js/theme.js"></script>
+<script src="js/custom.js"></script>
 <!-- Map-->
 <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js" integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og==" crossorigin=""></script>
 <!-- Available tile layers-->

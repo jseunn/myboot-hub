@@ -178,11 +178,12 @@
     </div>
     <div class="container">
         <!-- Slider main container-->
-        <div class="swiper swiper-container swiper-container-mx-negative items-slider px-lg-5 pt-3">
+<%--        items-slider  swiper-container swiper-container-mx-negative--%>
+        <div class="swiper items-slider px-lg-5 pt-3">
             <!-- Additional required wrapper-->
             <div class="swiper-wrapper pb-5" id="bestReviewItemContainer" style="height: unset !important;" >
                 <!-- Slides-->
-                <div class="swiper-slide h-auto px-2" >
+                <div class="swiper-slide h-auto px-2">
                     <!-- venue item-->
                     <div class="w-100 hover-animate" data-marker-id="59c0c8e33b1527bfe2abaf92">
                         <div class="card border-0 shadow">
@@ -327,9 +328,231 @@
                         </div>
                     </div>
                 </div>
+                <div class="swiper-slide h-auto px-2" >
+                    <!-- venue item-->
+                    <div class="w-100 hover-animate" data-marker-id="59c0c8e39aa2edasd626e485d">
+                        <div class="card border-0 shadow">
+                            <div class="card-img-top overflow-hidden dark-overlay bg-cover"
+                                 style="background-image: url(img/photo/restaurant-1505275350441-83dcda8eeef5.jpg); min-height: 200px;">
+                                <a class="tile-link" href="detail.html"></a>
+                                <div class="card-img-overlay-bottom z-index-20">
+                                    <h4 class="text-white text-shadow">5th item</h4>
+                                    <p class="mb-2 text-xs"><i class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-gray-300"> </i>
+                                    </p>
+                                </div>
+                                <div class="card-img-overlay-top d-flex justify-content-between align-items-center">
+                                    <div class="badge badge-transparent badge-pill px-3 py-2">Café</div>
+                                    <a class="card-fav-icon position-relative z-index-40" href="javascript: void();">
+                                        <svg class="svg-icon text-white position-absolute" style="top:50%; left:50%; transform: translate(-50%,-50%);">                                            <use xlink:href="#heart-1"></use>
+                                        </svg>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <p class="text-sm text-muted mb-3"> Cillum sunt reprehenderit ea non irure veniam dolore
+                                    commodo labore fugiat est consequat velit. Cupidatat nisi qui ad si...</p>
+                                <p class="text-sm text-muted text-uppercase mb-1">By <a href="#" class="text-dark">Matt
+                                    Damon</a></p>
+                                <p class="text-sm mb-0"><a class="me-1" href="#">Nisi,</a><a class="me-1"
+                                                                                             href="#">Ex,</a><a
+                                        class="me-1" href="#">Eiusmod</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide h-auto px-2" >
+                    <!-- venue item-->
+                    <div class="w-100 hover-animate" data-marker-id="59c0c8e39aa2edasd626e485d">
+                        <div class="card border-0 shadow">
+                            <div class="card-img-top overflow-hidden dark-overlay bg-cover"
+                                 style="background-image: url(img/photo/restaurant-1505275350441-83dcda8eeef5.jpg); min-height: 200px;">
+                                <a class="tile-link" href="detail.html"></a>
+                                <div class="card-img-overlay-bottom z-index-20">
+                                    <h4 class="text-white text-shadow">6th item</h4>
+                                    <p class="mb-2 text-xs"><i class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-gray-300"> </i>
+                                    </p>
+                                </div>
+                                <div class="card-img-overlay-top d-flex justify-content-between align-items-center">
+                                    <div class="badge badge-transparent badge-pill px-3 py-2">Café</div>
+                                    <a class="card-fav-icon position-relative z-index-40" href="javascript: void();">
+                                        <svg class="svg-icon text-white position-absolute" style="top:50%; left:50%; transform: translate(-50%,-50%);">                                            <use xlink:href="#heart-1"></use>
+                                        </svg>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <p class="text-sm text-muted mb-3"> Cillum sunt reprehenderit ea non irure veniam dolore
+                                    commodo labore fugiat est consequat velit. Cupidatat nisi qui ad si...</p>
+                                <p class="text-sm text-muted text-uppercase mb-1">By <a href="#" class="text-dark">Matt
+                                    Damon</a></p>
+                                <p class="text-sm mb-0"><a class="me-1" href="#">Nisi,</a><a class="me-1"
+                                                                                             href="#">Ex,</a><a
+                                        class="me-1" href="#">Eiusmod</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide h-auto px-2" >
+                    <!-- venue item-->
+                    <div class="w-100 hover-animate" data-marker-id="59c0c8e39aa2edasd626e485d">
+                        <div class="card border-0 shadow">
+                            <div class="card-img-top overflow-hidden dark-overlay bg-cover"
+                                 style="background-image: url(img/photo/restaurant-1505275350441-83dcda8eeef5.jpg); min-height: 200px;">
+                                <a class="tile-link" href="detail.html"></a>
+                                <div class="card-img-overlay-bottom z-index-20">
+                                    <h4 class="text-white text-shadow">6th item</h4>
+                                    <p class="mb-2 text-xs"><i class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-gray-300"> </i>
+                                    </p>
+                                </div>
+                                <div class="card-img-overlay-top d-flex justify-content-between align-items-center">
+                                    <div class="badge badge-transparent badge-pill px-3 py-2">Café</div>
+                                    <a class="card-fav-icon position-relative z-index-40" href="javascript: void();">
+                                        <svg class="svg-icon text-white position-absolute" style="top:50%; left:50%; transform: translate(-50%,-50%);">                                            <use xlink:href="#heart-1"></use>
+                                        </svg>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <p class="text-sm text-muted mb-3"> Cillum sunt reprehenderit ea non irure veniam dolore
+                                    commodo labore fugiat est consequat velit. Cupidatat nisi qui ad si...</p>
+                                <p class="text-sm text-muted text-uppercase mb-1">By <a href="#" class="text-dark">Matt
+                                    Damon</a></p>
+                                <p class="text-sm mb-0"><a class="me-1" href="#">Nisi,</a><a class="me-1"
+                                                                                             href="#">Ex,</a><a
+                                        class="me-1" href="#">Eiusmod</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide h-auto px-2" >
+                    <!-- venue item-->
+                    <div class="w-100 hover-animate" data-marker-id="59c0c8e39aa2edasd626e485d">
+                        <div class="card border-0 shadow">
+                            <div class="card-img-top overflow-hidden dark-overlay bg-cover"
+                                 style="background-image: url(img/photo/restaurant-1505275350441-83dcda8eeef5.jpg); min-height: 200px;">
+                                <a class="tile-link" href="detail.html"></a>
+                                <div class="card-img-overlay-bottom z-index-20">
+                                    <h4 class="text-white text-shadow">6th item</h4>
+                                    <p class="mb-2 text-xs"><i class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-gray-300"> </i>
+                                    </p>
+                                </div>
+                                <div class="card-img-overlay-top d-flex justify-content-between align-items-center">
+                                    <div class="badge badge-transparent badge-pill px-3 py-2">Café</div>
+                                    <a class="card-fav-icon position-relative z-index-40" href="javascript: void();">
+                                        <svg class="svg-icon text-white position-absolute" style="top:50%; left:50%; transform: translate(-50%,-50%);">                                            <use xlink:href="#heart-1"></use>
+                                        </svg>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <p class="text-sm text-muted mb-3"> Cillum sunt reprehenderit ea non irure veniam dolore
+                                    commodo labore fugiat est consequat velit. Cupidatat nisi qui ad si...</p>
+                                <p class="text-sm text-muted text-uppercase mb-1">By <a href="#" class="text-dark">Matt
+                                    Damon</a></p>
+                                <p class="text-sm mb-0"><a class="me-1" href="#">Nisi,</a><a class="me-1"
+                                                                                             href="#">Ex,</a><a
+                                        class="me-1" href="#">Eiusmod</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide h-auto px-2" >
+                    <!-- venue item-->
+                    <div class="w-100 hover-animate" data-marker-id="59c0c8e39aa2edasd626e485d">
+                        <div class="card border-0 shadow">
+                            <div class="card-img-top overflow-hidden dark-overlay bg-cover"
+                                 style="background-image: url(img/photo/restaurant-1505275350441-83dcda8eeef5.jpg); min-height: 200px;">
+                                <a class="tile-link" href="detail.html"></a>
+                                <div class="card-img-overlay-bottom z-index-20">
+                                    <h4 class="text-white text-shadow">6th item</h4>
+                                    <p class="mb-2 text-xs"><i class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-gray-300"> </i>
+                                    </p>
+                                </div>
+                                <div class="card-img-overlay-top d-flex justify-content-between align-items-center">
+                                    <div class="badge badge-transparent badge-pill px-3 py-2">Café</div>
+                                    <a class="card-fav-icon position-relative z-index-40" href="javascript: void();">
+                                        <svg class="svg-icon text-white position-absolute" style="top:50%; left:50%; transform: translate(-50%,-50%);">                                            <use xlink:href="#heart-1"></use>
+                                        </svg>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <p class="text-sm text-muted mb-3"> Cillum sunt reprehenderit ea non irure veniam dolore
+                                    commodo labore fugiat est consequat velit. Cupidatat nisi qui ad si...</p>
+                                <p class="text-sm text-muted text-uppercase mb-1">By <a href="#" class="text-dark">Matt
+                                    Damon</a></p>
+                                <p class="text-sm mb-0"><a class="me-1" href="#">Nisi,</a><a class="me-1"
+                                                                                             href="#">Ex,</a><a
+                                        class="me-1" href="#">Eiusmod</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide h-auto px-2" >
+                    <!-- venue item-->
+                    <div class="w-100 hover-animate" data-marker-id="59c0c8e39aa2edasd626e485d">
+                        <div class="card border-0 shadow">
+                            <div class="card-img-top overflow-hidden dark-overlay bg-cover"
+                                 style="background-image: url(img/photo/restaurant-1505275350441-83dcda8eeef5.jpg); min-height: 200px;">
+                                <a class="tile-link" href="detail.html"></a>
+                                <div class="card-img-overlay-bottom z-index-20">
+                                    <h4 class="text-white text-shadow">6th item</h4>
+                                    <p class="mb-2 text-xs"><i class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-warning"></i><i
+                                            class="fa fa-star text-gray-300"> </i>
+                                    </p>
+                                </div>
+                                <div class="card-img-overlay-top d-flex justify-content-between align-items-center">
+                                    <div class="badge badge-transparent badge-pill px-3 py-2">Café</div>
+                                    <a class="card-fav-icon position-relative z-index-40" href="javascript: void();">
+                                        <svg class="svg-icon text-white position-absolute" style="top:50%; left:50%; transform: translate(-50%,-50%);">                                            <use xlink:href="#heart-1"></use>
+                                        </svg>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <p class="text-sm text-muted mb-3"> Cillum sunt reprehenderit ea non irure veniam dolore
+                                    commodo labore fugiat est consequat velit. Cupidatat nisi qui ad si...</p>
+                                <p class="text-sm text-muted text-uppercase mb-1">By <a href="#" class="text-dark">Matt
+                                    Damon</a></p>
+                                <p class="text-sm mb-0"><a class="me-1" href="#">Nisi,</a><a class="me-1"
+                                                                                             href="#">Ex,</a><a
+                                        class="me-1" href="#">Eiusmod</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
             <!-- If we need pagination-->
-            <div class="swiper-pagination"></div>
+            <div class="swiper-pagination d-none"></div>
         </div>
         <div class="text-center mt-5"><a class="btn btn-outline-primary" href="category-2.html">See all places</a></div>
     </div>

@@ -1,7 +1,31 @@
 
 
 window.addEventListener("DOMContentLoaded",()=>{
+
+
+
+
+
+    const setNavigationPosition = () =>{
+        const detailBar = document.getElementById("detailBar")
+        if(window.scrollY>100){
+            detailBar.classList.add("fixed-top")
+        }else{
+            detailBar.classList.remove("fixed-top")
+        }
+    }
+
+    setInterval(()=>{
+        setNavigationPosition();
+        console.log("y value",window.scrollY);
+    },500);
+
+
+    console.log("왜안돼");
+    
+
     const swiper = new Swiper('.swiper', {
+        // slidesPerGroup: 4,
         slidesPerView: 4,
         spaceBetween: 10,
         // Responsive breakpoints
@@ -25,9 +49,19 @@ window.addEventListener("DOMContentLoaded",()=>{
         autoplay: {
             delay: 3000,
         },
+        loop:true,
         speed: 400,
         // spaceBetween: 100,
-        stopOnLastSlide:true
+        stopOnLastSlide:true,
+        // pagination: {
+        //     el: '.swiper-pagination',
+        //     type: 'bullets',
+        // },
     });
 })
+
+window.addEventListener('DOMContentLoaded', (event) => {
+    console.log('DOM fully loaded and parsed');
+});
+
 
