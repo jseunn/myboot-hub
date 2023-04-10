@@ -50,23 +50,35 @@
                         </div>
                     </form>
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item dropdown"><a class="nav-link dropdown-toggle " id="homeDropdownMenuLink" href="/../public/html/index.html" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Home</a>
-                            <div class="dropdown-menu" aria-labelledby="homeDropdownMenuLink"><a class="dropdown-item" href="/../public/html/index.html">Rooms</a><a class="dropdown-item" href="/../public/index-2.html">Restaurants</a><a class="dropdown-item" href="index-3.html">Travel</a><a class="dropdown-item" href="index-4.html">Real Estate <span class="badge badge-info-light ms-1 mt-n1">New</span></a></div>
+                        <li class="nav-item dropdown"><a class="nav-link" id="homeDropdownMenuLink" href="/../public/html/index.html" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            제품<i class="bi bi-chevron-down"></i></a>
+                            <div class="dropdown-menu" aria-labelledby="homeDropdownMenuLink">
+                                <h6 class="dropdown-header fw-normal">정수기</h6>
+                                <a class="dropdown-item" href="/../public/html/index.html">냉/온 정수기</a>
+                                <a class="dropdown-item" href="/../public/index-2.html">얼음/탄산 정수기</a>
+                                <a class="dropdown-item" href="index-3.html">스탠드 정수기<span class="badge badge-info-light ms-1 mt-n1">New</span></a>
+                            </div>
                         </li>
                         <li class="nav-item"><a class="nav-link" href="/detail">Detail</a>
                         </li>
-                        <li class="nav-item dropdown"><a class="nav-link dropdown-toggle " id="docsDropdownMenuLink" href="index.html" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Docs</a>
-                            <div class="dropdown-menu dropdown-menu-end" aria-labelledby="docsDropdownMenuLink">
-                                <h6 class="dropdown-header fw-normal">Documentation</h6><a class="dropdown-item" href="docs/docs-introduction.html">Introduction </a><a class="dropdown-item" href="docs/docs-directory-structure.html">Directory structure </a><a class="dropdown-item" href="docs/docs-gulp.html">Gulp </a><a class="dropdown-item" href="docs/docs-customizing-css.html">Customizing CSS </a><a class="dropdown-item" href="docs/docs-credits.html">Credits </a><a class="dropdown-item" href="docs/docs-changelog.html">Changelog </a>
-                                <div class="dropdown-divider"></div>
-                                <h6 class="dropdown-header fw-normal">Components</h6><a class="dropdown-item" href="docs/components-bootstrap.html">Bootstrap </a><a class="dropdown-item" href="docs/components-directory.html">Theme </a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link" id="docsDropdownMenuLink" href="index.html" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">고객지원<i class="bi bi-chevron-down"></i></a>
+                            <div class="dropdown-menu" aria-labelledby="homeDropdownMenuLink">
+                                <a class="dropdown-item" href="/../public/html/index.html">사용설명서 찾기</a>
+                                <a class="dropdown-item" href="/../public/index-2.html">A/S 신청</a>
+                                <a class="dropdown-item" href="index-3.html">1:1 문의</a>
                             </div>
                         </li>
                         <li class="nav-item"><a class="nav-link" href="/login">Sign in</a></li>
                         <li class="nav-item"><a class="nav-link" href="/signup">Sign up</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/mypage">Sign up</a></li>
+<%--                        <li class="nav-item"><a class="nav-link" href="/mypage"><i class="bi bi-person p-0" id="personIcon"></i></a></li>--%>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown" href="index.html" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="bi bi-person p-0" id="personIcon"></i></a>
+                            <div class="dropdown-menu" aria-labelledby="homeDropdownMenuLink">
+                                <a class="dropdown-item" href="/mypage">마이페이지</a>
+                                <a class="dropdown-item" href="/../public/index-2.html">A/S 신청</a>
+                                <a class="dropdown-item" href="index-3.html">1:1 문의</a>
+                            </div></li>
                         <li class="nav-item mt-3 mt-lg-0 ms-lg-3 d-lg-none d-xl-inline-block"><a class="btn btn-primary" href="user-add-0.html">Add a listing</a></li>
                     </ul>
                 </div>
