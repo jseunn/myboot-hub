@@ -11,9 +11,15 @@
                 <div class="card border-0 mb-6 mb-lg-0">
                     <div class="card-body pl-lg-5 p-md-0">
                         <div class="list-group list-group-flush rounded-0 text-sm my-5">
-                            <h6>내 정수기 관리</h6>
+                            <h6>제품관리</h6>
                             <a class="list-group list-group-item-action" href="knowlssedge-base-topic.html">
                                 내 정수기 관리하기
+                            </a>
+                            <a class="list-group list-group-item-action" href="knowlssedge-base-topic.html">
+                                AS 신청 내역
+                            </a>
+                            <a class="list-group list-group-item-action" href="knowlssedge-base-topic.html">
+                                나의 포인트
                             </a>
                         </div>
                         <div class="list-group list-group-flush rounded-0 text-sm my-5">
@@ -30,7 +36,7 @@
                             <a class="list-group list-group-item-action text-muted" href="knowlssedge-base-topic.html">
                                주문 내역</a>
                             <a class="list-group-list list-group-item-action text-muted" href="knowledge-base-topic.html">
-                                주문취소/반품/해지 내역</a>
+                                주문취소/반납/해지 내역</a>
                         </div>
                         <div class="list-group list-group-flush rounded-0 text-sm my-5">
 
