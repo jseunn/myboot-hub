@@ -23,5 +23,10 @@ public class JacocoControllerTest {
                 .param("n", "3"))
                 .andExpect(content().string("hello"))
                 .andExpect(status().isOk());
+
+        mvc.perform(get("/test")
+                        .param("n", "-1"))
+                .andExpect(content().string("world"))
+                .andExpect(status().isOk());
     }
 }
