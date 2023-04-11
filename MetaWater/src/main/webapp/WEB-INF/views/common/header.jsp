@@ -23,6 +23,7 @@
     <!-- Custom stylesheet - for your changes-->
     <link rel="stylesheet" href="css/custom.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.4/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.min.css"/>
 
 </head>
 
@@ -51,7 +52,7 @@
                     </form>
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item dropdown"><a class="nav-link" id="homeDropdownMenuLink" href="/../public/html/index.html" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            제품<i class="bi bi-chevron-down"></i></a>
+                            제품&nbsp;<i class="fas fa-angle-down"></i></a>
                             <div class="dropdown-menu" aria-labelledby="homeDropdownMenuLink">
                                 <h6 class="dropdown-header fw-normal">정수기</h6>
                                 <a class="dropdown-item" href="/../public/html/index.html">냉/온 정수기</a>
@@ -62,7 +63,7 @@
                         <li class="nav-item"><a class="nav-link" href="/detail">Detail</a>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link" id="docsDropdownMenuLink" href="index.html" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">고객지원<i class="bi bi-chevron-down"></i></a>
+                            <a class="nav-link" id="docsDropdownMenuLink" href="index.html" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">고객지원&nbsp;<i class="fas fa-angle-down"></i></a>
                             <div class="dropdown-menu" aria-labelledby="homeDropdownMenuLink">
                                 <a class="dropdown-item" href="/../public/html/index.html">사용설명서 찾기</a>
                                 <a class="dropdown-item" href="/../public/index-2.html">A/S 신청</a>
@@ -71,14 +72,14 @@
                         </li>
                         <li class="nav-item"><a class="nav-link" href="/login">Sign in</a></li>
                         <li class="nav-item"><a class="nav-link" href="/signup">Sign up</a></li>
-<%--                        <li class="nav-item"><a class="nav-link" href="/mypage"><i class="bi bi-person p-0" id="personIcon"></i></a></li>--%>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown" href="index.html" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="bi bi-person p-0" id="personIcon"></i></a>
+                            <a class="nav-link dropdown" href="index.html" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="personIcon"><i class="fas fa-user-alt fa-lg"></i></a>
                             <div class="dropdown-menu" aria-labelledby="homeDropdownMenuLink">
                                 <a class="dropdown-item" href="/mypage">마이페이지</a>
                                 <a class="dropdown-item" href="/../public/index-2.html">A/S 신청</a>
                                 <a class="dropdown-item" href="index-3.html">1:1 문의</a>
                             </div></li>
+                        <li class="nav-item"><a class="nav-link" href="/" id="mybell"><i class="fas fa-bell fa-lg"></i></a></li>
                         <li class="nav-item mt-3 mt-lg-0 ms-lg-3 d-lg-none d-xl-inline-block"><a class="btn btn-primary" href="user-add-0.html">Add a listing</a></li>
                     </ul>
                 </div>

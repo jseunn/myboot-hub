@@ -23,6 +23,9 @@
 }
 
 #personIcon{
-    width:38px !important;
-    height:38px !important;
+    top: 5px !important;
+}
+
+#mybell{
+    top: 5px !important;
 }
