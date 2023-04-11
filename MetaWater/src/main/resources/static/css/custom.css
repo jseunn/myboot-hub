@@ -29,3 +29,27 @@
 #mybell{
     top: 5px !important;
 }
+
+#headerEmpty{
+    width: 20px;
+}
+
+#headerSearch{
+    position:relative;
+    top: 5px !important;
+}
+
+.header-menu{
+    padding-left: 18px;
+}
+
+#search_search{
+    border-radius:20px;
+    width:250px;
+    height: 30px;
+}
+
+#search{
+    border-radius:20px;
+    width:300px;
+}
